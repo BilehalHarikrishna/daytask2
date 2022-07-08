@@ -1,0 +1,8 @@
+name id
+hari 12
+anil 13
+sai 14
+
+echo "Next Content"salary
+1234
+123
