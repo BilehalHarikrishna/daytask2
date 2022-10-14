@@ -1,0 +1,17 @@
+LinkChecker 10.1.0
+Copyright (C) 2000-2016 Bastian Kleineidam, 2010-2021 LinkChecker Authors
+LinkChecker comes with ABSOLUTELY NO WARRANTY!
+This is free software, and you are welcome to redistribute it under
+certain conditions. Look at the file `LICENSE' within this distribution.
+Read the documentation at https://linkchecker.github.io/linkchecker/
+Write comments and bugs to https://github.com/linkchecker/linkchecker/issues
+
+Start checking at 2022-10-14 10:45:03+005
+
+Statistics:
+Downloaded: 1.25MB.
+Content types: 25 image, 14 text, 0 video, 0 audio, 13 application, 0 mail and 16 other.
+URL lengths: min=29, max=1880, avg=147.
+
+That's it. 68 links in 68 URLs checked. 0 warnings found. 0 errors found.
+Stopped checking at 2022-10-14 10:45:25+005 (21 seconds)
